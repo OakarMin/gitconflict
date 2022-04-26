@@ -4,4 +4,6 @@ body {
 
 header {
     color: red;
+    margin: 20px;
+    padding: 10px;
 }
